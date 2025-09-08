@@ -7,7 +7,7 @@ This project analyzes website user behavior and engagement across different days
 - How do hour, day, and user channel affect website engagement and session quality?
 - Can we identify high-impact periods and channels for optimized marketing?
 
-# Dataset"
+# Dataset
 - Source: Website export (CSV)
 - Scope: 3,182 records covering April-May 2024
 - Columns: channel group, datehour, Users, Sessions, Engaged sessions, Average engagement time per session, Engaged sessions per user, Events per session, Engagement rate, Event count
