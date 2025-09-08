@@ -4,13 +4,13 @@ Comprehensive analysis of website user engagement and traffic patterns across mu
 This project analyzes website user behavior and engagement across different days, hours, and traffic channels. Using Python and Jupyter Notebook, I performed data cleaning and visual exploration to identify peak activity times and highlight which channels drive the highest engagement. Insights are presented with clear heatmaps and bar charts to support smarter marketing and scheduling decisions.
 
 # Problem Statement
-* How do hour, day, and user channel affect website engagement and session quality?
-* Can we identify high-impact periods and channels for optimized marketing?
+- How do hour, day, and user channel affect website engagement and session quality?
+- Can we identify high-impact periods and channels for optimized marketing?
 
 # Dataset"
-◾Source: Website export (CSV)
-◾Scope: 3,182 records covering April-May 2024
-◾Columns: channel group, datehour, Users, Sessions, Engaged sessions, Average engagement time per session, Engaged sessions per user, Events per session, Engagement rate, Event count
+- Source: Website export (CSV)
+- Scope: 3,182 records covering April-May 2024
+- Columns: channel group, datehour, Users, Sessions, Engaged sessions, Average engagement time per session, Engaged sessions per user, Events per session, Engagement rate, Event count
 
 # Tools and Technologies:
 ◾Python
