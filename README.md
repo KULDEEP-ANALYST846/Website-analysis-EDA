@@ -13,46 +13,46 @@ This project analyzes website user behavior and engagement across different days
 - Columns: channel group, datehour, Users, Sessions, Engaged sessions, Average engagement time per session, Engaged sessions per user, Events per session, Engagement rate, Event count
 
 # Tools and Technologies:
-◾Python
-◾Pandas
-◾Matplotlib
-◾Seaborn
-◾Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 # Methods:
-◾Data cleaning & Transformation
-◾Exploratory Data Analysis (EDA)
-◾Aggregations by time and channel
+- Data cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Aggregations by time and channel
 
 # Key Insights:
-◾Organic Social channel drives the Highest traffic late evenings (10–11 PM)
-◾Refferl Channel has the Highest Engagement Rate and Engagement Sessions.
-◾Engagement time and rates peak on weekdays, especially Wednesday
-◾Direct channel users have stronger conversion to engaged sessions
-◾Heatmaps reveal key windows for content scheduling
+- Organic Social channel drives the Highest traffic late evenings (10–11 PM)
+- Refferl Channel has the Highest Engagement Rate and Engagement Sessions.
+- Engagement time and rates peak on weekdays, especially Wednesday
+- Direct channel users have stronger conversion to engaged sessions
+- Heatmaps reveal key windows for content scheduling
 
 # Results & Conclusion:
-◾Identified actionable time periods
-◾top-performing channels for Engagement and User Acquisition
-◾Provided visuals to support marketing and content strategy decisions
-◾The Approach can be adapted for other web analytics datasets
+- Identified actionable time periods
+- top-performing channels for Engagement and User Acquisition
+- Provided visuals to support marketing and content strategy decisions
+- The Approach can be adapted for other web analytics datasets
 
 # How to Run this Project?
-◾Clone the repository:
+- Clone the repository:
 git clone https://github.com/yourusername/website-analysis-project.git
 
-◾Install dependencies:
+ - Install dependencies:
 pip install -r requirements.txt
 
-◾Launch Jupyter Notebook and open Website-analysis.ipynb
+ - Launch Jupyter Notebook and open Website-analysis.ipynb
 
-◾Ensure data-export (1).csv is placed in the root directory
+- Ensure data-export (1).csv is placed in the root directory
 
 # Author & Contact
 Kuldeep Mourya
 
-Email: kuldeepmourya@email.com
+- Email: kuldeepmourya@email.com
 
-LinkedIn: https://www.linkedin.com/in/kuldeep-mourya-5a5a962b9/
+- LinkedIn: https://www.linkedin.com/in/kuldeep-mourya-5a5a962b9/
 
-Portfolio: https://kuldeep-analyst846.github.io/portfolio/
+- Portfolio: https://kuldeep-analyst846.github.io/portfolio/
